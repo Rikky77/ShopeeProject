@@ -1,0 +1,9 @@
+Cara Running Script
+1. Buka File Excel RunProject\DataTable\ExecuteTable.xlsx (untuk menentukan excel yang akan di jalankan dan berapa data yang mau di running) dan Save
+2. Buka File gist.xlsx, pada sheet Datatable, di isi field sesuai yang di inginkan
+3. Pastikan di PC anda sudah terinstall JDK 1.8
+4. Running RikkyProject.jar
+5. Hasil running bisa di cek sesuai path yang anda isi pada file ExecuteTable.xlsx
+
+
+FrameWork yang kita gunakan adalah Keyword Driven
